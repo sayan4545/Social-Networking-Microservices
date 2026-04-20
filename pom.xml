@@ -9,10 +9,17 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.dev.sayan.socialNetworking</groupId>
+<<<<<<< HEAD
     <artifactId>PostService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>PostService</name>
     <description>PostService</description>
+=======
+    <artifactId>UserService</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>UserService</name>
+    <description>UserService</description>
+>>>>>>> df1f830 ( Basic set up with the dependencies)
     <url/>
     <licenses>
         <license/>
